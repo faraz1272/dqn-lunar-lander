@@ -45,6 +45,8 @@ The agent was trained for `1000` episodes with the following settings:
 ### Plots for Training Rewards and Training Loss:
 ![image](https://github.com/user-attachments/assets/d485039f-47c3-44d1-bf56-b3d29d93a8ba)
 
+[🎥 Watch the demo video](lunar_lander.mp4)
+
 ---
 ## 📊 Results Analysis
 
