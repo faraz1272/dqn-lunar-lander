@@ -47,6 +47,8 @@ The agent was trained for `1000` episodes with the following settings:
 
 [🎥 Watch the demo video](lunar_lander.mp4)
 
+![Lunar Lander Demo](lunar_lander.gif)
+
 ---
 ## 📊 Results Analysis
 
